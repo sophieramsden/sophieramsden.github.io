@@ -1,20 +1,20 @@
 ---
 layout: default
+title: "Merry Christmas"
+date: "2016-12-25 00:21:30 -0800"
 ---
 
-{% site.description %}
+This website is hosted at {{ site.url }}. It can be managed from the GitHub account [{{ site.github_username }}](https://github.com/{{ site.github_username }}/{{ site.github_username }}.github.io) and is made with [Jekyll and GitHub Pages](https://jekyllrb.com/docs/github-pages/).
 
-It's hosted at {% site.url %} and can be managed from your GitHub account [{% site.github_username %}](https://github.com/{% site.github_username %}/{% site.github_username %}.github.io) and is made with [Jekyll and GitHub Pages](https://jekyllrb.com/docs/github-pages/). If you are happy with the idea of having a website it can be set up with a custom domain at [website]({% site.github_username %}.ca)
-
-## Jekyll
+### Jekyll
 
 Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
 
-## Github Pages
+### Github Pages
 
 [GitHub Pages](https://pages.github.com/) are public web pages for users, organizations, and repositories, that are freely hosted on GitHub’s github.io domain or on a custom domain name of your choice. GitHub Pages are powered by Jekyll behind the scenes, so in addition to supporting regular HTML content, they’re also a great way to host your Jekyll-powered website for free.
 
-This page is made with [Jekyll and GitHub Pages](https://jekyllrb.com/docs/github-pages/).
+## Using Jekyll and Markdown
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
