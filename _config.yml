@@ -1,13 +1,13 @@
 # Site settings
 title: "Sophie Ramsden"
 #email: contact@sophieramsden.ca
-#description: ""
+description: "Sophie Ramsden's personal website."
 #url: "http://nadineramsden.ca" # the base hostname & protocol
 github_username: sophieramsden
 #logo: /images/logo/ram_logo.png
 # Build settings
 markdown: kramdown
-theme: Slate
+theme: jekyll-theme-slate
 # gems:
 #   - jekyll-redirect-from
 #   - jekyll-sitemap
